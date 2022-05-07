@@ -1,2 +1,6 @@
 Bienvenidos a nuestra aplicación web!!!
+<<<<<<< HEAD
 1-institucional
+=======
+2 - Noticias
+>>>>>>> c51ae5c0a65f90197254df6036970b06454ef411
